@@ -1,0 +1,13 @@
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.exe
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.deps.json
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.runtimeconfig.json
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.runtimeconfig.dev.json
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.dll
+F:\C#\L71\L71\bin\Debug\netcoreapp3.1\L71.pdb
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.csprojAssemblyReference.cache
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.csproj.CoreCompileInputs.cache
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.AssemblyInfoInputs.cache
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.AssemblyInfo.cs
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.dll
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.pdb
+F:\C#\L71\L71\obj\Debug\netcoreapp3.1\L71.genruntimeconfig.cache
